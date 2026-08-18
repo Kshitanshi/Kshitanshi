@@ -1,20 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16122b,50:2b2148,100:ff6fae&height=180&section=header&text=KSHITANSHI&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=currently%20building%20my%20way%20up&descSize=16&descColor=f0d9ff&descAlignY=58"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:151126,45:342354,75:7a63c7,100:f06aa6&height=190&section=header&text=KSHITANSHI&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=currently%20building%20my%20way%20up&descAlignY=63&descSize=17&descColor=eadfff"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/curious_learner-f06aa6?style=for-the-badge&labelColor=161321">
+<img src="https://img.shields.io/badge/learning-9b82ff?style=for-the-badge&labelColor=161321">
+<img src="https://img.shields.io/badge/building-69c6ff?style=for-the-badge&labelColor=161321">
 
 </div>
 
 <br>
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/curious%20learner-ff6fae?style=for-the-badge&labelColor=171321&color=ff6fae">
-<img src="https://img.shields.io/badge/exploring-9b8cff?style=for-the-badge&labelColor=171321&color=9b8cff">
-<img src="https://img.shields.io/badge/building-6ecbff?style=for-the-badge&labelColor=171321&color=6ecbff">
-
-</div>
-
-<br><br>
+---
 
 <table>
 <tr>
@@ -24,7 +22,7 @@
 
 Curious about how things work and even more interested in building them.
 
-I’m currently exploring **data, analytics, technology**, and different areas that catch my attention. Most of what I learn comes from projects, experiments, trying things out, and figuring things out along the way.
+I’m currently exploring **data, analytics, technology**, and different areas that catch my attention. Most of what I learn comes from working on projects, experimenting with ideas, and figuring things out along the way.
 
 I’m still discovering where I want to take this, but every project is helping me learn something new and get a little better at what I do.
 
@@ -36,23 +34,16 @@ I’m still discovering where I want to take this, but every project is helping 
 
 <br>
 
-**learning**  
-SQL + Power BI
+<img src="https://img.shields.io/badge/learning-SQL-f06aa6?style=flat-square&labelColor=211a31">
+<br><br>
 
-<br>
+<img src="https://img.shields.io/badge/exploring-Power%20BI-9b82ff?style=flat-square&labelColor=211a31">
+<br><br>
 
-**building**  
-data projects
+<img src="https://img.shields.io/badge/building-projects-69c6ff?style=flat-square&labelColor=211a31">
+<br><br>
 
-<br>
-
-**exploring**  
-new tools
-
-<br>
-
-**thinking about**  
-what's next
+<img src="https://img.shields.io/badge/growing-analytics-skills?style=flat-square&labelColor=211a31&color=71d7a0">
 
 </td>
 </tr>
@@ -62,49 +53,19 @@ what's next
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=2b2148&height=45&text=✦%20PLAYER%20PROFILE&fontSize=18&fontColor=ffffff"/>
-
-</div>
+### 🎯 PLAYER PROFILE
 
 <br>
 
-<table>
-<tr>
+<img src="https://img.shields.io/badge/ROLE-CURIOUS%20LEARNER-f06aa6?style=for-the-badge&labelColor=181421">
+&nbsp;
+<img src="https://img.shields.io/badge/LOCATION-INDIA-9b82ff?style=for-the-badge&labelColor=181421">
+&nbsp;
+<img src="https://img.shields.io/badge/FOCUS-LEARNING%20%26%20BUILDING-69c6ff?style=for-the-badge&labelColor=181421">
+&nbsp;
+<img src="https://img.shields.io/badge/STATUS-IN%20PROGRESS-71d7a0?style=for-the-badge&labelColor=181421">
 
-<td align="center" bgcolor="#171321">
-
-### role
-
-**Curious Learner**
-
-</td>
-
-<td align="center" bgcolor="#221a35">
-
-### location
-
-**India**
-
-</td>
-
-<td align="center" bgcolor="#2b2148">
-
-### focus
-
-**Learning & Building**
-
-</td>
-
-<td align="center" bgcolor="#171321">
-
-### status
-
-**In Progress**
-
-</td>
-
-</tr>
-</table>
+</div>
 
 <br><br>
 
@@ -112,98 +73,79 @@ what's next
 
 <table>
 <tr>
+<td width="33%" valign="top">
 
-<td width="55%" valign="top">
+### 01 / learning
 
-### learning
+**SQL**  
+**Power BI**
 
-`SQL`
+<br>
 
-`Power BI`
-
-`Analytics`
-
-</td>
-
-<td width="45%" valign="top">
-
-### building
-
-`Real-world projects`
-
-`Portfolio`
-
-`New ideas`
+Building a stronger foundation in data and analytics.
 
 </td>
 
-</tr>
+<td width="33%" valign="top">
 
-<tr>
+### 02 / building
 
-<td valign="top">
+**Real-world projects**  
+**Portfolio**
 
-### exploring
+<br>
 
-`New tools`
-
-`New technologies`
-
-`Different areas of interest`
+Turning what I learn into things I can actually show.
 
 </td>
 
-<td valign="top">
+<td width="34%" valign="top">
 
-### growing
+### 03 / exploring
 
-`Skills`
+**New tools**  
+**New ideas**
 
-`Experience`
+<br>
 
-`Projects`
+Trying different things and seeing what actually clicks.
 
 </td>
-
 </tr>
 </table>
 
 <br>
 
-<div align="right">
+<div align="center">
 
-`one thing at a time.`
+<sub>currently figuring things out, one project at a time</sub>
 
 </div>
 
-<br>
+---
 
-## 🕶️ MY LOADOUT
+## 🕶️ LOADOUT
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/ADVANCED%20EXCEL-MASTERED-ff6fae?style=for-the-badge&labelColor=171321">
-<img src="https://img.shields.io/badge/DATA%20ANALYSIS-2b2148?style=for-the-badge&labelColor=171321">
-<img src="https://img.shields.io/badge/DASHBOARDS-9b8cff?style=for-the-badge&labelColor=171321">
-<img src="https://img.shields.io/badge/AI-6ecbff?style=for-the-badge&labelColor=171321">
+<img src="https://img.shields.io/badge/ADVANCED%20EXCEL-MASTERED-f06aa6?style=for-the-badge&labelColor=181421">
 
 <br><br>
 
-`Pivot Tables`
-&nbsp;
-`VLOOKUP`
-&nbsp;
-`IF`
-&nbsp;
-`SUM`
-&nbsp;
-`AVERAGE`
-&nbsp;
-`MAX`
-&nbsp;
-`MIN`
-&nbsp;
-`Charts`
+<img src="https://img.shields.io/badge/PIVOT%20TABLES-9b82ff?style=for-the-badge&labelColor=181421">
+<img src="https://img.shields.io/badge/VLOOKUP-69c6ff?style=for-the-badge&labelColor=181421">
+<img src="https://img.shields.io/badge/IF-71d7a0?style=for-the-badge&labelColor=181421">
+<img src="https://img.shields.io/badge/CHARTS-f4c96b?style=for-the-badge&labelColor=181421">
+
+<br>
+
+<img src="https://img.shields.io/badge/DASHBOARDS-f06aa6?style=for-the-badge&labelColor=181421">
+<img src="https://img.shields.io/badge/DATA%20ANALYSIS-9b82ff?style=for-the-badge&labelColor=181421">
+<img src="https://img.shields.io/badge/AI-69c6ff?style=for-the-badge&labelColor=181421">
+
+<br><br>
+
+`SUM` `AVERAGE` `MAX` `MIN` `VLOOKUP` `IF`
 
 </div>
 
@@ -212,28 +154,29 @@ what's next
 <table>
 <tr>
 
-<td width="40%" bgcolor="#2b2148" valign="top">
+<td width="28%" align="center" valign="middle">
 
-## ✅ completed
+## ✅
 
-### Zomato Sales Dashboard
+### COMPLETED
 
-**Excel**  
-**Data Analysis**  
-**Dashboarding**
+**01**
 
 </td>
 
-<td width="60%" valign="top">
+<td width="72%" valign="top">
 
-### what I built
+## Zomato Sales Dashboard
 
-A dashboard project focused on analysing sales data, identifying patterns, and turning raw information into useful business insights.
+**Microsoft Excel**  
+`Data Analysis` · `Dashboarding`
+
+A project built to analyse sales data, identify patterns, and turn raw information into useful business insights.
 
 <br>
 
 <a href="YOUR_ZOMATO_REPOSITORY_LINK">
-<img src="https://img.shields.io/badge/view%20project-ff6fae?style=for-the-badge&labelColor=171321">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-ffffff?style=for-the-badge&labelColor=f06aa6">
 </a>
 
 </td>
@@ -247,27 +190,29 @@ A dashboard project focused on analysing sales data, identifying patterns, and t
 
 ## 🗺️ WHERE I'M HEADED
 
-`ADVANCED EXCEL`
+<br>
 
-↓  
+<img src="https://img.shields.io/badge/01%20ADVANCED%20EXCEL-%E2%9C%93-f06aa6?style=for-the-badge&labelColor=181421">
 
-`SQL`
+<span style="font-size:20px;"> → </span>
 
-↓  
+<img src="https://img.shields.io/badge/02%20SQL-IN%20PROGRESS-9b82ff?style=for-the-badge&labelColor=181421">
 
-`POWER BI`
+<span style="font-size:20px;"> → </span>
 
-↓  
+<img src="https://img.shields.io/badge/03%20POWER%20BI-NEXT-69c6ff?style=for-the-badge&labelColor=181421">
 
-`MORE PROJECTS`
+<br><br>
 
-↓  
+<img src="https://img.shields.io/badge/04%20MORE%20PROJECTS-NEXT-71d7a0?style=for-the-badge&labelColor=181421">
 
-`INTERNSHIPS`
+<span style="font-size:20px;"> → </span>
 
-↓  
+<img src="https://img.shields.io/badge/05%20INTERNSHIPS-FUTURE-f4c96b?style=for-the-badge&labelColor=181421">
 
-`PERSONAL WEBSITE`
+<span style="font-size:20px;"> → </span>
+
+<img src="https://img.shields.io/badge/06%20PERSONAL%20WEBSITE-COMING%20SOON-f06aa6?style=for-the-badge&labelColor=181421">
 
 </div>
 
@@ -281,30 +226,31 @@ A dashboard project focused on analysing sales data, identifying patterns, and t
 ## ✷ little things
 
 • learning through projects  
-• trying different ideas  
+• experimenting with ideas  
 • building a stronger portfolio  
-• slowly figuring out what fits me
+• exploring different interests  
+• getting better as I go
 
 </td>
 
 <td width="50%" valign="top" align="center">
 
-## ✦ connect
+## 🔗 connect
 
 <a href="YOUR_LINKEDIN_LINK">
-<img src="https://img.shields.io/badge/LINKEDIN-9b8cff?style=for-the-badge&labelColor=171321">
+<img src="https://img.shields.io/badge/LINKEDIN-9b82ff?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=181421">
 </a>
 
 <br><br>
 
 <a href="https://www.instagram.com/kshitanshi_priya/">
-<img src="https://img.shields.io/badge/INSTAGRAM-ff6fae?style=for-the-badge&labelColor=171321">
+<img src="https://img.shields.io/badge/INSTAGRAM-f06aa6?style=for-the-badge&logo=instagram&logoColor=white&labelColor=181421">
 </a>
 
 <br><br>
 
 <a href="https://github.com/Kshitanshi">
-<img src="https://img.shields.io/badge/GITHUB-6ecbff?style=for-the-badge&labelColor=171321">
+<img src="https://img.shields.io/badge/GITHUB-69c6ff?style=for-the-badge&logo=github&logoColor=white&labelColor=181421">
 </a>
 
 </td>
@@ -312,10 +258,10 @@ A dashboard project focused on analysing sales data, identifying patterns, and t
 </tr>
 </table>
 
-<br><br>
+<br>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6fae,50:9b8cff,100:171321&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f06aa6,45:9b82ff,75:342354,100:151126&height=110&section=footer"/>
 
 </div>
