@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://kommodo.ai/i/KOYVRnqO5CaVGhKY1LWF" width="100%" alt="Kshitanshi">
+<img src="gta%20main.png" width="100%" alt="Kshitanshi">
 
 # KSHITANSHI
 
@@ -55,7 +55,7 @@ In Progress
 
 ## CURRENT MISSIONS
 
-<img src="https://kommodo.ai/i/jPBXJMK75VTSxEemNjX2" width="100%" alt="Current Missions">
+<img src="gta%20working.png" width="100%" alt="Current Missions">
 
 <br>
 
@@ -78,7 +78,7 @@ Currently working on:
 
 <div align="center">
 
-<img src="https://kommodo.ai/i/2xkdYWaiv31mGlDsYTjD" width="72%" alt="Kshitanshi Loadout">
+<img src="gta%20loadout.png" width="72%" alt="Kshitanshi Loadout">
 
 </div>
 
